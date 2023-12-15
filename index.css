@@ -1,0 +1,51 @@
+
+
+
+body {
+
+background: linear-gradient(0deg, hsl(39, 38%, 79%, 0.52) , hsl(39, 38%, 79%, 0.52) ),
+            url(station.jpg)   no-repeat center center/ cover;
+
+text-align: center;
+}
+
+.div {
+    margin: auto;
+} 
+
+
+h1 {
+    margin-top: 10%;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+
+button {
+
+        padding: 10px 0 10px;
+        border-radius: 20px;
+        width: 200px;
+        margin-bottom: 5px;
+        font-weight: bold;      
+        outline: none;
+        border: none;
+    }
+
+#increment-btn:hover {
+
+    cursor: pointer;
+}
+
+
+
+
+#save-btn:hover {
+
+    cursor: pointer;
+}
